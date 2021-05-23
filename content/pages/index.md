@@ -9,7 +9,7 @@ sections:
     actions:
       - label: How Can I Help?
         url: /contact
-        style: link
+        style: secondary
         has_icon: false
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
