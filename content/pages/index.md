@@ -11,6 +11,7 @@ sections:
         url: /contact
         style: secondary
         has_icon: false
+        new_window: true
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
