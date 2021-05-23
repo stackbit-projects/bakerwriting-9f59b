@@ -5,7 +5,7 @@ sections:
     title: Turn Your Ideas Into Content That Connects
     content: >
       I work with you to understand your audience. We meet them on their terms.
-      Everyone gets what they want.
+      Everyone gets what they want. It's beautiful.
     actions:
       - label: Let's Get Started
         url: /contact
