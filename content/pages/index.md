@@ -12,7 +12,6 @@ sections:
         style: secondary
         has_icon: false
         new_window: false
-    image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
