@@ -10,7 +10,7 @@ sections:
       - label: How Can I Help?
         url: /contact
         style: secondary
-        has_icon: false
+        has_icon: true
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
