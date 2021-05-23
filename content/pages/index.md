@@ -3,9 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Turn Your Ideas Into Content That Connects
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      I work with you to understand your audience. Then we work together to meet
+      them on their terms. Everyone gets what they want.
     actions:
       - label: How Can I Help?
         url: /contact
