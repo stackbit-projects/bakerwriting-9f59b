@@ -7,7 +7,7 @@ sections:
       I work with you to understand your audience. Then we work together to meet
       them on their terms. Everyone gets what they want.
     actions:
-      - label: How Can I Help?
+      - label: Let's Get Started
         url: /contact
         style: secondary
         has_icon: false
