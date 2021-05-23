@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - label: How Can I Help?
-        url: /pricing
+        url: /contact
         style: primary
       - label: Learn More
         url: /features
