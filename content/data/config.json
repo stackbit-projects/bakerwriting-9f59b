@@ -154,8 +154,7 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ],
-        "content": "=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        ]
     },
     "domain": "https://bakerwriting-9f59b.netlify.app"
 }
