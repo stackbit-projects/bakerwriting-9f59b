@@ -12,9 +12,6 @@ sections:
         url: /contact
         style: primary
         has_icon: false
-      - label: Learn More
-        url: /features
-        style: secondary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
