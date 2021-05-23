@@ -11,7 +11,7 @@ sections:
       - label: How Can I Help?
         url: /contact
         style: primary
-        has_icon: true
+        has_icon: false
       - label: Learn More
         url: /features
         style: secondary
