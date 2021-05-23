@@ -151,7 +151,7 @@ sections:
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
-        content_align: center
+        content_align: left
         actions:
           - label: Learn More
             url: /style-guide
