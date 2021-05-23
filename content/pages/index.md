@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Turn Your Ideas Into Content That Connects
     content: >
-      I work with you to understand your audience. Then we work together to meet
-      them on their terms. Everyone gets what they want.
+      I work with you to understand your audience. We meet them on their terms.
+      Everyone gets what they want.
     actions:
       - label: Let's Get Started
         url: /contact
