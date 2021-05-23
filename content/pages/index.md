@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Turn Your Ideas Into Content that Connects
+    title: Turn Your Ideas Into Content That Connects
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
