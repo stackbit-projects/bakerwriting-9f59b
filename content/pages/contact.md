@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Get in touch
+    title: Let's Talk
     align: center
     padding_top: small
     padding_bottom: none
