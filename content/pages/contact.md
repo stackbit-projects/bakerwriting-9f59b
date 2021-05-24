@@ -102,7 +102,6 @@ sections:
     form_fields:
       - input_type: text
         label: Name
-        default_value: First and Last
         options: []
         is_required: true
         type: form_field
