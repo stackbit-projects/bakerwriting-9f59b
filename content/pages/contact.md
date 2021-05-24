@@ -98,7 +98,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: Contact Me
-    form_action: lorem-ipsum
+    form_action: Contact
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
