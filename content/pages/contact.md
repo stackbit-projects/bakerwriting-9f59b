@@ -104,7 +104,7 @@ sections:
         label: Name
         default_value: First and Last
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: First and Last
     align_vert: top
