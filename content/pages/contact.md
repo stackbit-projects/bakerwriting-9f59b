@@ -13,8 +13,10 @@ sections:
     has_border: true
     background_color: none
   - title_align: left
-    content: |
-      #####
+    content: >
+      ##### Let me know what you need and I will get back to you as soon as
+      possible. If someone referred you to me please tell me who to thank. I
+      look forward to our discussion!
     content_align: left
     form_position: bottom
     form_width: fifty
