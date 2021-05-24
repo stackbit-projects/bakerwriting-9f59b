@@ -15,7 +15,7 @@ sections:
     form_position: bottom
     form_width: fifty
     form_layout: stacked
-    enable_card: true
+    enable_card: false
     form_id: Contact Me
     form_action: netlify
     form_fields:
