@@ -8,8 +8,9 @@ sections:
     padding_bottom: small
     has_border: false
     background_color: none
-    content: |
-      Tell me what you need and I will get back to you as soon as possible.
+    content: >
+      Tell me what you need and I will get back to you as soon as possible. If
+      someone referred you please let me know so I can thank them.
   - title_align: left
     content: >
       Tell me what you need and I will get back to you as soon as possible. If
