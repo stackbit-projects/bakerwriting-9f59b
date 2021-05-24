@@ -5,7 +5,7 @@ sections:
     title: Get in touch
     align: center
     padding_top: small
-    padding_bottom: small
+    padding_bottom: none
     has_border: true
     background_color: none
   - title_align: left
