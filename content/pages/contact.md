@@ -6,7 +6,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: none
-    has_border: true
+    has_border: false
     background_color: none
   - title_align: left
     content: >
