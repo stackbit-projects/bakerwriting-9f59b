@@ -111,7 +111,7 @@ sections:
         name: Email
         label: Email
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     align_vert: top
     padding_top: medium
