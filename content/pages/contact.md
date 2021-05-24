@@ -109,7 +109,7 @@ sections:
         name: First and Last
       - input_type: email
         name: lorem-ipsumE
-        label: lorem-ipsum
+        label: Email
         default_value: lorem-ipsum
         options: []
         is_required: false
