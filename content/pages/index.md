@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Turn Your Ideas Into Content That Connects
+    title: Turn Your Ideas Into <br> Content That Connects
     content: >
       I work with you to understand your audience. We meet them on their terms.
       Everyone gets what they want. What are you waiting for?
