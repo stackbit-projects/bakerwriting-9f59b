@@ -99,7 +99,14 @@ sections:
     enable_card: true
     form_id: Contact Me
     form_action: Contact
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     align_vert: top
     padding_top: medium
     padding_bottom: medium
