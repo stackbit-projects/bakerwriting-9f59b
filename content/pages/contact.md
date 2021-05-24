@@ -108,7 +108,7 @@ sections:
         type: form_field
         name: First and Last
       - input_type: email
-        name: lorem-ipsumE
+        name: Email
         label: Email
         default_value: lorem-ipsum
         options: []
