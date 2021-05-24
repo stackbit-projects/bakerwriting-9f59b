@@ -11,7 +11,7 @@ sections:
   - title_align: left
     content: >
       Tell me what you need and I will get back to you as soon as possible. If
-      someone referred you to me please tell me who to thank. I look forward to
+      someone referred you to me please tell me whom to thank. I look forward to
       our discussion!
     content_align: left
     form_position: bottom
