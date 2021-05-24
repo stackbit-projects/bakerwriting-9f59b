@@ -11,7 +11,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
-  - title: lorem-ipsum
+  - title: Contact Form
     subtitle: lorem-ipsum
     title_align: left
     content: >-
