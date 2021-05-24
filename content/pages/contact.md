@@ -116,7 +116,7 @@ sections:
       - input_type: text
         name: Message
         label: Message
-        default_value: lorem-ipsum
+        default_value: Let me know what's on your mind ...
         options: []
         is_required: false
         type: form_field
