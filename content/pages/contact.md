@@ -5,7 +5,7 @@ sections:
     title: Let's Talk ...
     align: center
     padding_top: small
-    padding_bottom: small
+    padding_bottom: none
     has_border: false
     background_color: none
     content: |
