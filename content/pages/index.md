@@ -16,7 +16,7 @@ sections:
     media_position: left
     media_width: fifty
     align: left
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     background_color: primary
     image: images/Bulb 4.png
