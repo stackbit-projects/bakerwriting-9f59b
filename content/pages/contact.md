@@ -115,7 +115,6 @@ sections:
       - input_type: textarea
         name: Message
         label: Message
-        default_value: Let me know what you need ...
         options: []
         is_required: true
         type: form_field
