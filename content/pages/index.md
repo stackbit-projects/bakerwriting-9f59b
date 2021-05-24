@@ -17,7 +17,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: medium
     background_color: primary
     image: images/Bulb 4.png
   - type: features_section
