@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/Bulb2.png
+    image: images/Bulb3.png
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
