@@ -118,7 +118,7 @@ sections:
         label: Message
         default_value: Let me know what you need ...
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     align_vert: top
     padding_top: medium
