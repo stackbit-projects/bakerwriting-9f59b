@@ -116,7 +116,7 @@ sections:
       - input_type: text
         name: Message
         label: Message
-        default_value: Let me know what's on your mind ...
+        default_value: Let me know what you need ...
         options: []
         is_required: false
         type: form_field
