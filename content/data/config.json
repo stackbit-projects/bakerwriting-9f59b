@@ -47,7 +47,7 @@
             },
             {
                 "label": "Contact Me",
-                "url": "/pricing",
+                "url": "/contact",
                 "style": "primary"
             }
         ],
