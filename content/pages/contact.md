@@ -7,7 +7,7 @@ sections:
     padding_top: small
     padding_bottom: none
     has_border: false
-    background_color: none
+    background_color: primary
     content: |
       Tell me what you need and I will get back to you as soon as possible.
   - title_align: left
