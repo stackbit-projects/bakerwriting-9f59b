@@ -13,17 +13,13 @@ sections:
     background_color: none
   - title: Contact Form
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Contact Form
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Let me know what you need and I will get back to you as soon as possible.
+      If someone referred you to me please tell me who to thank. I look forward
+      to our discussion!
     content_align: left
     form_position: bottom
     form_width: fifty
