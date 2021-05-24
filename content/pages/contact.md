@@ -107,6 +107,13 @@ sections:
         is_required: true
         type: form_field
         name: First and Last
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     align_vert: top
     padding_top: medium
     padding_bottom: medium
