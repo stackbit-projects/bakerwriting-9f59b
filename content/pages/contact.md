@@ -39,7 +39,7 @@ sections:
         type: form_field
     align_vert: top
     padding_top: small
-    padding_bottom: none
+    padding_bottom: small
     has_border: false
     background_color: primary
     background_image_opacity: 0
