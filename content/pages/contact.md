@@ -19,7 +19,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: Contact Me
-    form_action: 'https://formspree.io/f/xyylerrd'
+    form_action: netlify
     form_fields:
       - input_type: text
         label: Name
