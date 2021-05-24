@@ -103,8 +103,7 @@ sections:
       - input_type: text
         label: Name
         default_value: First and Last
-        options:
-          - lorem-ipsum
+        options: []
         is_required: true
         type: form_field
         name: First and Last
