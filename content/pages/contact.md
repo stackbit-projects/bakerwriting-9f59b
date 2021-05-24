@@ -12,7 +12,6 @@ sections:
     has_border: true
     background_color: none
   - title: Contact Form
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
