@@ -40,7 +40,7 @@ sections:
         is_required: true
         type: form_field
     align_vert: top
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
