@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Let's Get Started
         url: /contact
-        style: secondary
+        style: primary
         has_icon: false
         new_window: false
       - label: lorem-ipsum
