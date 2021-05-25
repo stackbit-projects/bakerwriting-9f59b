@@ -40,7 +40,8 @@ sections:
         media_width: fifty
   - type: cta_section
     title: What Do You Need?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Contact me today so we can discuss your options.
     actions:
       - label: Let's Get Started
         url: /pricing
