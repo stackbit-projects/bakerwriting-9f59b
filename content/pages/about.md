@@ -44,7 +44,7 @@ sections:
       Contact me today so we can discuss your options.
     actions:
       - label: Let's Get Started
-        url: /pricing
+        url: /contact
         style: primary
     align: center
     padding_top: medium
