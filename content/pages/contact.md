@@ -9,7 +9,7 @@ sections:
     has_border: false
     background_color: primary
     content: |
-      Tell me what you need. I will get back to you as soon as possible.
+      Tell me what you need. I will get back to you. Promise.
   - title_align: left
     content_align: left
     form_position: bottom
