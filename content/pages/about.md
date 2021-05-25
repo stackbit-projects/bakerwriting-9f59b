@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: cta_section
-    title: What do you need?
+    title: What Do You Need?
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Let's Get Started
