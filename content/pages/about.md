@@ -42,7 +42,7 @@ sections:
     title: What do you need?
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Compare Plans
+      - label: Let's Get Started
         url: /pricing
         style: primary
     align: center
